@@ -1,3 +1,3 @@
-output "Hello_World" {
+output "Practice_Terraform" {
     value = "Pratice! Terraform"
 }
